@@ -28,5 +28,6 @@ ELK config for Trend Micro IWSVA Proxy
 
 ## Other improvements todo
 - [x] Ignore local IP addresses from GeoIP Lookups
+- [x] Translate local IP addresses (Read LOCAL_IP.MD)
 
 Feel free to contribute and improve
